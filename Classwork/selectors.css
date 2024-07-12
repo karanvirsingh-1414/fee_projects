@@ -1,0 +1,44 @@
+/* UNIVERSAL SELECTORS */
+* {
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+/* Id Selectors */
+#fruits {
+    color: aqua;
+    border: 2px dotted green;
+}
+
+
+
+/* CLASS SELECTORS */
+.a1 {
+    color: red;
+    text-decoration: line-through;
+    font-weight: bolder;
+}
+
+
+/* ELEMENTS SELECTORS */
+p {
+    background-color: bisque;
+}
+
+
+
+/* ATTRIBUTES SELECTORS */
+input[type="text"] {
+    background-color:orange;
+}
+
+input[type="password"] {
+    background-color:green;
+}
+
+
+input[placeholder="Enter your mail"] {
+    background-color: pink;
+}
+
