@@ -1,0 +1,48 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    border: 2px solid black;
+    
+    padding: 20px 20px 20px 20px; /*Top Left Bottom Right */
+    margin-top: 20px;
+}
+
+.a1 {
+    border: 2px solid red;
+    padding: 20px 20px 20px 20px;  /*Top Left Bottom Right */
+    font-size: 40px;
+}
+
+.p1 {
+    font-size: 25px;
+}
+
+h1 {
+    text-align: center;
+    /* text-align: left; */
+    /* text-align: right; */
+    /* text-align: start; */
+    /* text-align: end; */
+    /* text-align: justify; */
+    /* text-align: inherit; */
+}
+
+
+.link {
+    font-size: 50px;
+    text-decoration:line-through;
+    /* text-decoration: overline; */
+    /* text-decoration-style: dotted; */
+    /* text-decoration-style: double; */
+    text-decoration-style:wavy;
+    text-decoration-color: red;
+}
+
+.text-shadow {
+    font-size: 50px;
+    text-shadow: 2px 5px 2px  aqua;
+    color: black;
+}
